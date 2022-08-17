@@ -1,3 +1,3 @@
 # sm-swetha-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-4wowpv)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sm-swetha-project)
